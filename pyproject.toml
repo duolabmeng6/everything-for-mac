@@ -1,6 +1,6 @@
 [project]
 name = "everything-search"
-version = "1.0.0"
+version = "1.0.1"
 description = "高性能文件搜索工具 - 类似于Windows Everything的macOS解决方案"
 authors = [
     {name = "duolabmeng6", email = "1715109585@gmail.com"}

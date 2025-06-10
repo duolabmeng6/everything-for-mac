@@ -39,7 +39,7 @@ class MainWindow(QMainWindow):
     
     def _setup_ui(self):
         """设置界面"""
-        self.setWindowTitle("Everything Search - 高性能文件搜索工具")
+        self.setWindowTitle("Everything Search - 高性能文件搜索工具 QQ:1715109585")
         self.setMinimumSize(600, 420)
         # 不在这里设置默认大小，将在_restore_window_state中处理
         
@@ -210,7 +210,7 @@ class MainWindow(QMainWindow):
         about_text = """
         <h2>Everything Search</h2>
         <p><b>版本:</b> 1.0.0</p>
-        <p><b>描述:</b> 高性能文件搜索工具</p>
+        <p><b>描述:</b> 高性能文件搜索工具 QQ:1715109585</p>
         <p>类似于Windows Everything的macOS解决方案，使用Python开发。</p>
         <p><b>特性:</b></p>
         <ul>
