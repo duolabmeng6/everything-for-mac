@@ -17,7 +17,7 @@ Everything Search - 高性能文件搜索工具
 
 __version__ = "1.0.0"
 __author__ = "duolabmeng6"
-__email__ = "duolabmeng6@gmail.com"
+__email__ = "1715109585@qq.com"
 __license__ = "MIT"
 
 # 导出主要类和函数

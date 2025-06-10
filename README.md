@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey.svg)](https://www.apple.com/macos/)
-
+![alt text](image.png)
 ## ✨ 特性
 
 - 🔍 **极速搜索** - 毫秒级文件搜索响应
@@ -269,9 +269,11 @@ everything-search/
 ## 📞 联系
 
 - 作者：duolabmeng6
-- 邮箱：duolabmeng6@gmail.com
+- 邮箱：1715109585@qq.com
 - 项目链接：https://github.com/duolabmeng6/everything-for-mac
 
 ---
 
 ⭐ 如果这个项目对您有帮助，请给个Star支持一下！
+# 打赏
+![alt text](swskm.jpg)
